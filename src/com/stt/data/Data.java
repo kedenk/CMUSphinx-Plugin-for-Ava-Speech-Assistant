@@ -20,7 +20,7 @@ public class Data {
 	
 	public static String version; 
 	public static  String name;
-	public static String confDir 		= "C:/Users/Kevin/Desktop/tmp/plugin-based-speech-recognition/code/workspace/STTSphinxPlugin/res/";  			// TODO ändern un absoluten pfad
+	public static String confDir 		= "./res/";  			// TODO ï¿½ndern un absoluten pfad
 	public static String confFileName	= "sttPlugin.properties"; 
 	
 	private static PluginState pluginState = null; 
